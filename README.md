@@ -1,9 +1,9 @@
 # Building a Dynamic Web Presence: Deploying WordPress on Microsoft Azure
 
->>>> # Create Wordpress on azure App Services <<<<
+>>>> # Create Wordpress on Azure App Services <<<<
 ![Screenshot 2023-02-27 130211](https://user-images.githubusercontent.com/113555417/221529330-719854c4-eb0c-47a4-9fb2-a851de3c5333.jpg)
 
->>>> # fill details as per Project requirnments <<<<
+>>>> # Fill details as per Project requirnments <<<<
 ![Screenshot 2023-02-27 141017](https://user-images.githubusercontent.com/113555417/221529341-3b23831c-9f4d-498b-bf99-d98c7e467575.jpg)
 ![Screenshot 2023-02-27 141047](https://user-images.githubusercontent.com/113555417/221529344-1a666ed9-7ba2-451a-82e1-ae269032bb04.jpg)
 ![Screenshot 2023-02-27 142332](https://user-images.githubusercontent.com/113555417/221529347-3dffa5ad-f0c2-4ec2-b46b-6501a48bcc41.jpg)
