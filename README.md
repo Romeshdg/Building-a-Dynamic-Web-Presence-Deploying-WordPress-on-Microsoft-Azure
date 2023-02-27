@@ -1,9 +1,13 @@
-![Screenshot 2023-01-23 131313](https://user-images.githubusercontent.com/113555417/221101513-a61af179-4bf3-4134-93b8-959fb2461ec0.jpg)
-![Screenshot 2023-01-23 133029](https://user-images.githubusercontent.com/113555417/221101533-eae7ba65-6028-48ba-a77c-75483b5cc5ca.jpg)
-![Screenshot 2023-01-23 133100](https://user-images.githubusercontent.com/113555417/221101570-87b0605b-7487-4730-a50e-220ad34c8896.jpg)
-![Screenshot 2023-01-23 133120](https://user-images.githubusercontent.com/113555417/221101606-07da9e6e-5ada-469d-ab92-0316a0ffa192.jpg)
-![Screenshot 2023-01-23 133549](https://user-images.githubusercontent.com/113555417/221101623-3b40c4b0-4ba8-4a22-842b-1555e1e86178.jpg)
-![Screenshot 2023-01-23 133930](https://user-images.githubusercontent.com/113555417/221101645-41a4e385-a52f-4264-8020-ffc028b60347.jpg)
-![Screenshot 2023-01-23 134042](https://user-images.githubusercontent.com/113555417/221101664-1beed7da-c8f1-44af-bc9b-80f2ba522f85.jpg)
-![Screenshot 2023-01-23 134108](https://user-images.githubusercontent.com/113555417/221101673-77b7faf1-3274-43ac-b71b-1eba6d921c66.jpg)
-![Screenshot 2023-01-23 134742](https://user-images.githubusercontent.com/113555417/221101680-abd83d4b-3cea-44d3-8629-8af9ac7ad991.jpg)
+# Building a Dynamic Web Presence: Deploying WordPress on Microsoft Azure
+
+
+![Screenshot 2023-02-27 130211](https://user-images.githubusercontent.com/113555417/221529330-719854c4-eb0c-47a4-9fb2-a851de3c5333.jpg)
+![Screenshot 2023-02-27 141017](https://user-images.githubusercontent.com/113555417/221529341-3b23831c-9f4d-498b-bf99-d98c7e467575.jpg)
+![Screenshot 2023-02-27 141047](https://user-images.githubusercontent.com/113555417/221529344-1a666ed9-7ba2-451a-82e1-ae269032bb04.jpg)
+![Screenshot 2023-02-27 142332](https://user-images.githubusercontent.com/113555417/221529347-3dffa5ad-f0c2-4ec2-b46b-6501a48bcc41.jpg)
+![Screenshot 2023-02-27 142352](https://user-images.githubusercontent.com/113555417/221529351-0a256f5c-179f-4e5a-aeb3-6a3e17cc5b62.jpg)
+![Screenshot 2023-02-27 142413](https://user-images.githubusercontent.com/113555417/221529354-b872ae24-1315-40bf-a547-793d226ef8a4.jpg)
+![Screenshot 2023-02-27 142722](https://user-images.githubusercontent.com/113555417/221529357-f50ac1c1-97df-4b7d-8a2c-4467c0bf51ea.jpg)
+![Screenshot 2023-02-27 142752](https://user-images.githubusercontent.com/113555417/221529360-ad377925-305b-4b80-87e3-5253e7ed5a29.jpg)
+![Screenshot 2023-02-27 142805](https://user-images.githubusercontent.com/113555417/221529364-cb70531f-7a11-44cd-8a4b-df4e887cca82.jpg)
+![Screenshot 2023-02-27 150226](https://user-images.githubusercontent.com/113555417/221529370-49ec1364-8c73-419c-92b5-0dfba163ec8e.jpg)
